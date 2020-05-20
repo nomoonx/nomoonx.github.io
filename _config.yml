@@ -1,3 +1,4 @@
 # _config.yml
 
 title: "Jekyll Actions Demo"
+remote_theme: "wowthemesnet/jekyll-theme-memoirs"
