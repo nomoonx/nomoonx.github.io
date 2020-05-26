@@ -5,3 +5,5 @@ description: "last name ever, first name greatest"
 remote_theme: "wowthemesnet/jekyll-theme-memoirs"
 comments: true
 author: noMoon
+
+lazyimages: "enabled"
