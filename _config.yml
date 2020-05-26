@@ -2,7 +2,7 @@
 
 title: "中文标题"
 description: "last name ever, first name greatest"
-remote_theme: "wowthemesnet/jekyll-theme-memoirs"
+# remote_theme: "wowthemesnet/jekyll-theme-memoirs"
 comments: true
 author: noMoon
 
