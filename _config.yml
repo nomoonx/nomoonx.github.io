@@ -1,4 +1,7 @@
 # _config.yml
 
-title: "Jekyll Actions Demo"
+title: "越是故乡明"
+description: "last name ever, first name greatest"
 remote_theme: "wowthemesnet/jekyll-theme-memoirs"
+comments: true
+author: noMoon
