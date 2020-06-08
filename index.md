@@ -1,5 +1,6 @@
 ---
 title: "hoho"
+link: "assets/logo.png"
 ---
 
 Welcome to My Home Page
