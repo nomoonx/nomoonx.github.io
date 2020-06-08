@@ -6,7 +6,7 @@ description: "last name ever, first name greatest"
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
 comments: true
 author: noMoon
-
+logo: "assets/logo.png"
 lazyimages: "enabled"
 
 lang: zh
