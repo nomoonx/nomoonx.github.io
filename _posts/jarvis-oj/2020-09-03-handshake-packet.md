@@ -11,3 +11,5 @@ aircrack-ng -w /usr/share/dict/wordlist-probable.txt wifi.cap.d4e4d22bc8fe925bf0
 
 Result:
 ![result](/assets/jarvis-oj/handshake.png)
+
+把得到的密码填进去就好。
